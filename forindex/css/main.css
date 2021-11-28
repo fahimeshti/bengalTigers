@@ -2738,9 +2738,9 @@ address { font-style: italic; }
 	float:right;
 	font-size:14px;
 	line-height:20px;
-	font-weight:400;
+	font-weight:300;
 	padding:20px 0;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif !important;
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
 }
 .tg-footernav ul{
 	width:100%;
@@ -2758,8 +2758,6 @@ address { font-style: italic; }
 	color:#fff;
 	display:block;
 	line-height:20px;
-	font-weight: bold;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif !important;
 }
 #ascrail2000{display: block !important;}
 /*=============================================
