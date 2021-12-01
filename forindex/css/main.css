@@ -1510,8 +1510,8 @@ address { font-style: italic; }
 	overflow:hidden;
 	position:relative;
 	background:#373542;
-	background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../img/cover-1.webp) no-repeat;
-	background-size: cover;
+	background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../../img/internal2021/4teamWithStadium.png) no-repeat;
+	background-size: contain;
 	margin-top: -80px;
 }
 .tg-sliderbox .tg-imglayer{
